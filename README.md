@@ -21,4 +21,8 @@ Quand on appuie dessus, un menu apparaît.
 
 Quand on clique sur un des éléments, ou sur le bouton Hamburger, le menu disparaît, et le bouton reprend sa forme initiale.
 
+# Résultat
+
+Vous pouvez voir le résultat ici : [Menu Burger](https://yannickbiheul.fr/menuBurger.html)
+
 
