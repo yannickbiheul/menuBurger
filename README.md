@@ -19,7 +19,18 @@ Quand on appuie dessus, un menu apparaît.
 
 À l'ouverture du menu, le bouton Hamburger se transforme en croix.
 
-Quand on clique sur un des éléments, ou sur le bouton Hamburger, le menu disparaît, et le bouton reprend sa forme initiale.
+Quand on clique sur un des éléments, ou sur la croix, le menu disparaît, et le bouton reprend sa forme initiale.
+
+# Utilisation
+
+Ajouter la classe "boutonBurger" au bouton.
+
+Ajouter la classe "menuBurger" au menu.
+
+Ajouter les classes "span1", "span2" et "span3" aux spans.
+
+Ajouter la classe "elt" pour chaque élément.
+
 
 # Résultat
 
